@@ -11,5 +11,5 @@ The project is for those people who sell any type of liquid like water,milk etc 
 - Count Button Shows automatically when Month Complete
 - Option to count before completing Month
 
-######ICON
+##### ICONS
 The icons used in this project [Potlab Icon](https://www.potlabicons.com/).
