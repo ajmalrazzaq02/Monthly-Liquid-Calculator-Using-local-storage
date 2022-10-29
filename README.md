@@ -12,4 +12,4 @@ The project is for those people who sell any type of liquid like water,milk etc 
 - Option to count before completing Month
 
 ##### ICONS
-The icons used in this project [Potlab Icon](https://www.potlabicons.com/).
+The icons used in this project [Potlab Icons](https://www.potlabicons.com/).
