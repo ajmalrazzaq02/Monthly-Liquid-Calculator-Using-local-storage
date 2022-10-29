@@ -5,7 +5,9 @@ The project is for those people who sell any type of liquid like water,milk etc 
 ##### Features
 - Custom Date Picker
 - Responsive
+- Nice UI
 - Work on Browser Local Storage
 - No Library Used
 - Count Button Shows automatically when Month Complete
 - Option to count before completing Month
+
