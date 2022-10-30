@@ -156,7 +156,10 @@ th {
 	font-family: 'Google Sans', sans-serif;
 }
 
-
+@media (max-width: 991px)
+{
+	ol{height: 500px;}
+}
 
 ol {
 	height: 290px;
@@ -164,12 +167,8 @@ ol {
 	overflow-y: scroll;
 	font-family: 'Google Sans', sans-serif;
 }
-@media (max-width: 991px)
-{
-	ol{
-		height: 500px;
-	}
-}
+ 
+
 .logo {
 	width: 400px;
 	height: auto;
