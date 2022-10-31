@@ -1,3 +1,4 @@
+![image](https://i.ibb.co/BGCT23H/20221031-210256.jpg)
 #### Monthly Liquid Sell Calculator(Squarelator)
 This Calculator is my first ever practice project of javascript..
 ##### Information
