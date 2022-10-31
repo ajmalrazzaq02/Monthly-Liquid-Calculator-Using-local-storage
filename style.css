@@ -164,9 +164,9 @@ ol {
 	overflow-y: scroll;
 	font-family: 'Google Sans', sans-serif;
 }
- @media (max-width: 991px)
-{
-	ol{height:500px;}
+ @media (max-width: 991px){
+	ol{
+		height:504px;}
 }
 
 .logo {
